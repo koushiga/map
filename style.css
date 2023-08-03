@@ -24,10 +24,10 @@ body{
 	background-repeat:no-repeat;
 }
 #map{
-	padding:20px 0;
+	margin-top:80px;
 }
 .mapsrc{
-	height:20vh;
+	height:10vh;
 }
 .form input{
 	padding-left:10px;
@@ -79,7 +79,7 @@ input::placeholder{
 	padding-left:8px;
 	font-weight:400;
 	line-height:1.5;
-	width:290%;
+	width:295%;
 	height:40px;
 }
 .mess{
